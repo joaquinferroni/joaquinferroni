@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IA, ML, Flutter**
 
-- 🤝 I’m working on my wife's website [PsicoFer](www.psicofernandagarcia.com) - [Repo](https://github.com/PsicoFernandagarcia)
+- 🤝 I’m working on my wife's website [PsicoFer](https://www.psicofernandagarcia.com) - [Repo](https://github.com/PsicoFernandagarcia)
 
 - 💬 Ask me about **dotnet, C#**
 
